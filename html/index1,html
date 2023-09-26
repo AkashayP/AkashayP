@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <meta 
+    http-equiv="refresh"
+    content="2"/>
 </head>
 <body>
     <h1>This is my First heading.</h1>
@@ -30,12 +33,43 @@
         <li>toffee</li>
     </ul>
 
-    <ol>
+    <ol style="color: aquamarine;">
         <li>Paani garam kro</li>
         <li>maggie daalo</li>
         <li>leave for 2 minutes</li>    <!-- in ordered list sequence matters.-->
         <li>Serve</li>
         <li>Eat</li>
     </ol>
+
+    <table style="background-color: aqua;">
+        <tr>
+            <td>A</td>
+            <td>B</td>
+            <td>C</td>
+        </tr>
+        <tr>
+            <td>D</td>
+            <td>E</td>
+            <td>F</td>
+        </tr>
+        <tr>
+            <td>G</td>
+            <td>H</td>
+            <td>I</td>
+        </tr>
+    </table>
+
+    <img src ="https://media.licdn.com/dms/image/D4D03AQHqLhbMiKC2Vg/profile-displayphoto-shrink_800_800/0/1689079290677?e=2147483647&v=beta&t=u4iQQPowWvQ8QfHJ5rSDh2q4xUcC_b_ts9Hh2Wtcwog" style="height: 500 pixel;" alt="Its Me">
+       <p>Lorem <s>ipsum</s> dolor <b>sit amet</b>  consectetur adipisicing elit. Expedita provident commodi non sunt minus dolores hic saepe voluptatem, eum accusantium pariatur porro, quae corporis 
+        eveniet odit ex aspernatur dolore impedit itaque eaque repudiandae mollitia praesentium 
+        amet sint. Vel rem, libero similique ab veniam, accusantium molestiae cum fugiat voluptates hic quas.</p>
+        <p>2 <sup>5</sup></p>
+        <p>O <sub>2</sub></p>
+        <pre style="color: blueviolet;">
+            My Name is Akashay
+            I Live in Ghaziabad.
+        </pre>
+    <!-- Structured tags-->
+
 </body>
 </html>
